@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_versionName">1.2</string>
+    <string name="ver_memo">ver1.2 修改为以service方式注册powerchanged</string>
+    <string name="app_name">奶奶助手</string>
+    <string name="str_ok">OK</string>
+    <string name="shuoming">1.来电时，将手机侧垂直放可自动接听来电\n
+                                2.当电量改变时，可语音提醒充电</string>
+</resources>
